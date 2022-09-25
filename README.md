@@ -8,8 +8,8 @@ Simon Game using HTML CSS, JAVASCRIPT AND JQUERY
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Teke111/Simon-Game]
+- Live Site URL: [https://teke111.github.io/Simon-Game/]
 
 ## My process
 
