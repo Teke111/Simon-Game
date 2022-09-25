@@ -3,7 +3,7 @@ Simon Game using HTML CSS, JAVASCRIPT AND JQUERY
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](screenshot.png)
 
 
 ### Links
